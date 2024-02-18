@@ -20,7 +20,7 @@
   /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
-  --background-tertiary-alt: url("https://media.discordapp.net/attachments/772502106761592862/1036388185464385800/a1fa675b-3208-4474-a0ea-c8928ad1ffcd.jpg?ex=65e4e8b6&is=65d273b6&hm=31ca978faeeb6bea774fefb938b69869f38ed314c2119a2935e01d62992f562b&=&format=webp&width=503&height=670:large");
+  --background-tertiary-alt: url("https://cdn.discordapp.com/attachments/1133867398450126848/1208914215449010296/Untitled.jpg?ex=65e50419&is=65d28f19&hm=22f9cdc9ff9074993f0d8f4f5b4b847d66f211aa61a5d5492e582923c0895753&:large");
 
   /* Border-radius for the whole theme */
   --border-radius: 20px;
